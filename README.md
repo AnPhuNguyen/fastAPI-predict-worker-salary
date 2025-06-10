@@ -1,0 +1,1 @@
+# fastAPI-predict-worker-salary
